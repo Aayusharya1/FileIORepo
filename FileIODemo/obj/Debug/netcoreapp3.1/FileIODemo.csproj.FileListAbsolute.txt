@@ -1,0 +1,13 @@
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.exe
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.deps.json
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.runtimeconfig.json
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.runtimeconfig.dev.json
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.dll
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\bin\Debug\netcoreapp3.1\FileIODemo.pdb
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.csprojAssemblyReference.cache
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.AssemblyInfoInputs.cache
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.AssemblyInfo.cs
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.csproj.CoreCompileInputs.cache
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.dll
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.pdb
+C:\Users\Aayush Arya\source\repos\FileIODemo\FileIODemo\obj\Debug\netcoreapp3.1\FileIODemo.genruntimeconfig.cache
